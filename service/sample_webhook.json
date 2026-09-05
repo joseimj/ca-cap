@@ -1,0 +1,15 @@
+{
+  "type": "look",
+  "scheduled_plan": {
+    "title": "CA - agentes sobre tope",
+    "type": "Look",
+    "url": "https://YOUR-INSTANCE.cloud.looker.com/looks/123"
+  },
+  "attachment": {
+    "mimetype": "application/json",
+    "extension": "json",
+    "data": "[{\"agent.id\": \"42\", \"agent.name\": \"Ventas LATAM\", \"usage.total_tokens\": 5200000}]"
+  },
+  "data": {},
+  "form_params": {}
+}
